@@ -1,8 +1,12 @@
-{
-  "ABC123": {
+[
+  {
+    "key": "ABC123-XYZ456-TESTKEY",
     "hwid": "",
-    "created": "2025-05-07T00:00:00",
-    "expires": "2026-06-06T00:00:00"
+    "issued": "2025-05-07"
+  },
+  {
+    "key": "DEF789-GHI000-ANOTHERKEY",
+    "hwid": "",
+    "issued": "2025-05-01"
   }
-}
-
+]
